@@ -1,0 +1,24 @@
+E:\Dev\EBSOCStatus\EBSOCStatus\bin\Release\EBSOCStatus.exe.config
+E:\Dev\EBSOCStatus\EBSOCStatus\bin\Release\EBSOCStatus.exe
+E:\Dev\EBSOCStatus\EBSOCStatus\bin\Release\EBSOCStatus.pdb
+E:\Dev\EBSOCStatus\EBSOCStatus\bin\Release\EBSOCStatus.xml
+E:\Dev\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.Form1.resources
+E:\Dev\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.Resources.resources
+E:\Dev\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.vbproj.GenerateResource.Cache
+E:\Dev\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.exe
+E:\Dev\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.xml
+E:\Dev\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.pdb
+E:\Dev\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.SearchCode.resources
+E:\Dev\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.vbprojResolveAssemblyReference.cache
+C:\Users\kimdi\OneDrive\바탕 화면\EBSOCProgressViewer-2.1\EBSOCStatus\EBSOCStatus\bin\Release\EBSOCStatus.exe.config
+C:\Users\kimdi\OneDrive\바탕 화면\EBSOCProgressViewer-2.1\EBSOCStatus\EBSOCStatus\bin\Release\EBSOCStatus.exe
+C:\Users\kimdi\OneDrive\바탕 화면\EBSOCProgressViewer-2.1\EBSOCStatus\EBSOCStatus\bin\Release\EBSOCStatus.pdb
+C:\Users\kimdi\OneDrive\바탕 화면\EBSOCProgressViewer-2.1\EBSOCStatus\EBSOCStatus\bin\Release\EBSOCStatus.xml
+C:\Users\kimdi\OneDrive\바탕 화면\EBSOCProgressViewer-2.1\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.Form1.resources
+C:\Users\kimdi\OneDrive\바탕 화면\EBSOCProgressViewer-2.1\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.Resources.resources
+C:\Users\kimdi\OneDrive\바탕 화면\EBSOCProgressViewer-2.1\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.SearchCode.resources
+C:\Users\kimdi\OneDrive\바탕 화면\EBSOCProgressViewer-2.1\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.vbproj.GenerateResource.cache
+C:\Users\kimdi\OneDrive\바탕 화면\EBSOCProgressViewer-2.1\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.vbproj.CoreCompileInputs.cache
+C:\Users\kimdi\OneDrive\바탕 화면\EBSOCProgressViewer-2.1\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.exe
+C:\Users\kimdi\OneDrive\바탕 화면\EBSOCProgressViewer-2.1\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.xml
+C:\Users\kimdi\OneDrive\바탕 화면\EBSOCProgressViewer-2.1\EBSOCStatus\EBSOCStatus\obj\Release\EBSOCStatus.pdb
