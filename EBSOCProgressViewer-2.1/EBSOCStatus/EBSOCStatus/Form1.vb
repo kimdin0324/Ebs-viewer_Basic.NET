@@ -260,15 +260,6 @@ Public Class Form1
         End If
     End Sub
     Public Sub CheckUpdate(nowVer As String)
-        '업데이트 확인
-        Dim HTML, lastest, upLink, IU, notice As String
-        http2 = CreateObject("WinHttp.WinHttpRequest.5.1")
-        http2.Open("GET", "https://github.com/devITae/EBSOCProgressViewer/blob/master/img/version")
-        http2.Send()
-        http2.WaitForResponse()
-        HTML = System.Text.Encoding.UTF8.GetString(http2.ResponseBody)
-        lastest = Split(Split(HTML, "Lastest(v")(1), ")")(0)
-        upLink = Split(Split(HTML, "UpdateLink(")(1), ")")(0)
 
     End Sub
 End Class
